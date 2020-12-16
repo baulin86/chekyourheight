@@ -1,0 +1,31 @@
+label {
+	display: flex;
+	width: 350px;
+	justify-content: space-between;
+	margin-top: 10px;
+}
+
+button {
+	margin-top: 10px;
+}
+
+.resultWrapper {
+	display: block;
+	margin-top: 10px;
+}
+
+.invalid {
+	border-color: red;
+}
+
+.red {
+	color: red;
+}
+
+.orange {
+	color: orange;
+}
+
+.green {
+	color: green;
+}
